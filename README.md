@@ -190,15 +190,18 @@ The uses of Washerman's Lake in Ariyalur District are
 </body>
 </html>
 
+```
+
 ## Output:
-![Output](.screenshots/Screenshot(26).png)
-![Output](.screenshots/Screenshot(27).png)
-![Output](.screenshots/Screenshot(28).png)
-![Output](.screenshots/Screenshot(29).png)
-![Output](.screenshots/Screenshot(30).png)
+![OUTPUT](.screenshots/Screenshot(26).png)
+![OUTPUT](.screenshots/Screenshot(27).png)
+![OUTPUT](.screenshots/Screenshot(28).png)
+![OUTPUT](.screenshots/Screenshot(29).png)
+![OUTPUT](.screenshots/Screenshot(30).png)
 
 
 ## HTML Validator
 ![HTML Validator](.screenshots/valid.png)
+
 ## Result:
 The program for implementing image map is executed succesfully
