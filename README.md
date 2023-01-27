@@ -3,19 +3,14 @@
 To develop a website to display details about the places around my house.
 
 ## Design Steps:
+Step 1:
+Take screenshots of places around your house using Google Maps.
 
-### Step 1:
-Clone the github repository into theia IDE
-### Step 2:
-Create a new Django project 
+Step 2:
+Identify a minimum of five different locations and mark them using image maps.
 
-### Step 3:
-Write the needed HTML code
-
-### Step 4:
-Run the Django server and execute the HTML files
-
-
+STEP3:
+Develop a webpage(minimum of 50 words) for each location and link it to the image region.
 ## Code:
 ```
 map.html
@@ -193,15 +188,21 @@ The uses of Washerman's Lake in Ariyalur District are
 ```
 
 ## Output:
-![OUTPUT](.screenshots/Screenshot(26).png)
-![OUTPUT](.screenshots/Screenshot(27).png)
-![OUTPUT](.screenshots/Screenshot(28).png)
-![OUTPUT](.screenshots/Screenshot(29).png)
-![OUTPUT](.screenshots/Screenshot(30).png)
+
+![Screenshot (25)](https://user-images.githubusercontent.com/118708467/215161734-53b5c8a7-e144-45d2-904f-86fd1a9180e7.png)
+
+![Screenshot (26)](https://user-images.githubusercontent.com/118708467/215161839-7f586693-e638-4610-948c-14f9cda3aa90.png)
+
+![Screenshot (27)](https://user-images.githubusercontent.com/118708467/215161909-0ca59ff4-1242-4823-bc8e-029f7b872fd4.png)
+
+![Screenshot (28)](https://user-images.githubusercontent.com/118708467/215161931-00f696ff-e5c9-47e9-b525-f4f125907934.png)
+
+![Screenshot (29)](https://user-images.githubusercontent.com/118708467/215161978-1c367071-2afc-43af-b637-a21d1e01fb1c.png)
 
 
 ## HTML Validator
-![HTML Validator](.screenshots/valid.png)
+![valid 2](https://user-images.githubusercontent.com/118708467/215162159-19b8c6e0-5efc-477f-8dbe-9c1b0522680c.png)
+
 
 ## Result:
 The program for implementing image map is executed succesfully
