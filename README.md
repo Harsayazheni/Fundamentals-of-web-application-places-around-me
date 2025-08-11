@@ -9,7 +9,7 @@ Take screenshots of places around your house using Google Maps.
 Step 2:
 Identify a minimum of five different locations and mark them using image maps.
 
-STEP3:
+Step3:
 Develop a webpage(minimum of 50 words) for each location and link it to the image region.
 ## Code:
 ```
